@@ -5,3 +5,5 @@ Welcome to my portfolio website repository! This project showcases my work, skil
 ## About
 
 This portfolio website is built using HTML, CSS, and JavaScript. It is still under construction and will feature several sections, including Home, About Me, and Contact Me. The aim is to provide a comprehensive view of my professional journey, showcasing my projects, skills, and experiences. Stay tuned for updates!
+
+### Note: This website is still under development and may contain cantain content which is irrelavent
