@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-Welcome to my portfolio website repository! This project showcases my work, skills, and experience in web development and design.
+Welcome to my portfolio website repository! This project showcases my work, skills, services and experience in web development and design.
 
 ## About
 
